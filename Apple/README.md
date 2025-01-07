@@ -19,26 +19,26 @@ Screenshot 1: What the game looks like
 </br>
 </br>
 
-<img width="30%" src="https://github.com/user-attachments/assets/2932891e-a181-4ad1-9aa7-c73a105cd373">
-Screenshot 2:what happens if you click</br>
+<img width="30%" src="https://github.com/user-attachments/assets/2932891e-a181-4ad1-9aa7-c73a105cd373"></br>
+Screenshot 2:what happens if you click
 </br>
 </br>
 </br>
 
-<img width="30%" src="https://github.com/user-attachments/assets/3f3cb2fb-2991-417d-9809-6766522c0b61">
-Screenshot 3: What happens if you miss</br>
+<img width="30%" src="https://github.com/user-attachments/assets/3f3cb2fb-2991-417d-9809-6766522c0b61"></br>
+Screenshot 3: What happens if you miss
 </br>
 </br>
 </br>
 
-<img width="30%" src="https://github.com/user-attachments/assets/827d6e48-2194-47b4-b690-225e4e1672fc">
-Screenshot 4: What happens if you win</br>
+<img width="30%" src="https://github.com/user-attachments/assets/827d6e48-2194-47b4-b690-225e4e1672fc"></br>
+Screenshot 4: What happens if you win
 </br>
 </br>
 </br>
 
-<img width="30%" src="https://github.com/user-attachments/assets/2a963987-a17b-4874-86bf-7d1159cf61df">
-Screenshot 5: What happens if lose</br>
+<img width="30%" src="https://github.com/user-attachments/assets/2a963987-a17b-4874-86bf-7d1159cf61df"></br>
+Screenshot 5: What happens if lose
 </br>
 </br>
 </br>
